@@ -15,16 +15,19 @@ I enjoy turning real-world requirements into maintainable software, with particu
 * Flutter
 * Dart
 * Android
-* Flutter Web
-* Flutter Desktop
 
 **Web**
 
+* Flutter Web
 * React
 * Next.js
 * JavaScript
 * TypeScript
 
+**Desktop**
+
+* Flutter Desktop
+  
 **Architecture & State Management**
 
 * Clean Architecture
@@ -68,7 +71,6 @@ I enjoy turning real-world requirements into maintainable software, with particu
 * Offline-first applications
 * REST APIs and backend services
 * Admin dashboards
-* Automation tools
 
 ---
 
